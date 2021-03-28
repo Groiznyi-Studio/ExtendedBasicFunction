@@ -1,5 +1,5 @@
-#ifndef ExtendedBasicFunctions_H
-#define ExtendedBasicFunctions_H
+#ifndef EXTENDEDBASICFUNCTION_H
+#define EXTENDEDBASICFUNCTION_H
 
 #define ERROR_ICON 16
 #define QUEST_ICON 32
