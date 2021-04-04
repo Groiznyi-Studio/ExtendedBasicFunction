@@ -1,2 +1,2 @@
 # ExtendedBasicFunction
-ExtendedBasicFunction - Extended Basic Function C++
+ExtendedBasicFunction - Extended Basic Functions C++
